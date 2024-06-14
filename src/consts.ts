@@ -9,8 +9,8 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Blog",
-  DESCRIPTION: "Hector Vergara personal blog",
+  TITLE: "",
+  DESCRIPTION: "by Hector Vergara for Hector by Hector Vergara",
 };
 
 export const BLOG: Metadata = {
